@@ -1,0 +1,16 @@
+Leave this file here. Do not remove it. 
+Keep this information. Add it to your phone. Email it to yourself. Take a picture. 
+Whatever you need to do to have it handy 
+
+Assignment Submission Location: https://cgtweb2.tech.purdue.edu/courses/cgt356/rjglotz/classApps/SubmitAssignment/index.php 
+Assignment Submission Login: cgt356web1z 
+Assignment Submission Password: Computers1z5747 
+
+MySQL location: https://engineering.purdue.edu/phpMyAdmin 
+choose goss.tech.purdue.edu from the drop down 
+
+MySQL Database Name: cgt356web1z 
+MySQL Database Login: cgt356web1z 
+MySQL Database Password: Computers1z5747 
+
+You may use this same login & password in other places during this class. 

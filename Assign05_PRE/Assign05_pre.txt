@@ -1,0 +1,30 @@
+1.
+INSERT INTO Pet(PetID, Name, Descript)
+VALUES (1, "Junior",'Cute');
+
+INSERT INTO Pet(PetID, Name, Descript)
+VALUES (2, "Moongchi",'Loud');
+
+INSERT INTO Pet(PetID, Name, Descript)
+VALUES (3, "Ruby",'Young');
+
+INSERT INTO Pet(PetID, Name, Descript)
+VALUES (4, "Jinsun",'Loyal');
+
+INSERT INTO Pet(PetID, Name, Descript)
+VALUES (5, "Sogosogo",'Baby');
+-----------------------------------------------------------------------
+2.
+SELECT * 
+FROM Pet;
+-----------------------------------------------------------------------
+3.
+SELECT PetID, Name, Descript
+FROM Pet;
+-----------------------------------------------------------------------
+4.
+UPDATE Pet SET Name = 'Junhyok', Descript = 'Very Cute' 
+WHERE PetID=1;
+-----------------------------------------------------------------------
+5.
+DELETE FROM Pet WHERE PetID = 5;
